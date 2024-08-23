@@ -1,0 +1,21 @@
+{
+  "name": "Makise Kurisu",
+  "username": "Kristina",
+  "email": "labomember004@fglab.jp",
+  "address": {
+    "street": "This Street",
+    "suite": "Apt. 201",
+    "city": "tokyo",
+    "zipcode": "98740-0001",
+    "geo": {
+      "lat": "35.7026247",
+      "lng": "139.770102"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "http://futuregadget-lab.com/",
+  "company": {
+    "name": "Future Gadged Laboratory",
+    "catchPhrase": "All this is the choice of Steins Gate!"
+  }
+}

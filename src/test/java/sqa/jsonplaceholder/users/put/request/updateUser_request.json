@@ -1,0 +1,21 @@
+{
+  "name": "Makise Kurisu",
+  "username": "makise004",
+  "email": "labomember004@fglab.jp",
+  "address": {
+    "street": "Other Street",
+    "suite": "Apt. 777",
+    "city": "Tokyo",
+    "zipcode": "98740-00410",
+    "geo": {
+      "lat": "35.7026247",
+      "lng": "139.770102"
+    }
+  },
+  "phone": "1-987-000-001 x14004",
+  "website": "http://futuregadget-lab.com/",
+  "company": {
+    "name": "Future Gadged Laboratory",
+    "catchPhrase": "This catchPhrase was Updated! with Automation!"
+  }
+}
