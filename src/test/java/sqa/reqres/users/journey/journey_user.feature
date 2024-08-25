@@ -6,5 +6,5 @@ Feature: test the user resource from reqres.in
     * print userId
     * def jsonRequest = {name:"Friedrich",job:"Corn Lead Researcher"}
     * def updateUser = call read('classpath:sqa/reqres/users/put/updateUser.feature')userId,jsonRequest
-    * def getUser = call read('classpath:sqa/reqres/users/get/getUsers.feature')userId
-    * def
+    * def getUser = call read('classpath:sqa/reqres/users/get/getUsers.feature')
+    * def deleteUser = call read('classpath:sqa/reqres/users/delete/deleteUser.feature'){userId: "#(userId)"}
